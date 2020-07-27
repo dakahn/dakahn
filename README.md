@@ -1,3 +1,3 @@
-### Like, hi
+### Like, hi 🏄
 
-I'm @dakahn, frontend developer, web accessibility advocate, and sentient cloud of nanomachines.
+I'm @dakahn and I'm a computer worker focused on making the web more accessible. I sometimes write at [dakahn.zone](https://dakahn.zone). 
